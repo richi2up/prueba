@@ -1,0 +1,19 @@
+.bg-navbar {
+    background-color: rgba(8, 92, 202, 0.733);
+}
+
+.btn-custom {
+    background-color: #5a9; /* Cambia el color de fondo */
+    color: #fff; /* Cambia el color del texto */
+    border-radius: 10px; /* Ajusta el borde */
+    padding: 10px 20px;
+    transition: background-color 0.3s ease;
+}
+
+.btn-custom:hover {
+    background-color: #497; /* Cambia el color al pasar el mouse */
+}
+
+img {
+    width: 350px;
+}
